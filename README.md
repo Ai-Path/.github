@@ -1,1 +1,1 @@
-# .github
+# AIPath is an AI research and deployment company. Our mission is to ensure that artificial general intelligence benefits all of humanity.
